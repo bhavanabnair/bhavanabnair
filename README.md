@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavana</h1>
-<h3 align="center">I am a Machine Learning Engineer & AI Researcher with expertise in deep learning, natural language processing, and computer vision.</h3>
+<h3 align="center">🚀 About Me I am a Machine Learning Engineer & AI Researcher with expertise in deep learning, natural language processing, and computer vision. My work spans from AI-powered flood monitoring to demand forecasting and Generative AI applications across industries like banking, energy, and supply chain management. I am currently in the final phase of my PhD in AI, NLP and Computer Vision.</h3>
+
+- 📫 How to reach me **bhavanabnair1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/bhavanabnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavanabnair" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
