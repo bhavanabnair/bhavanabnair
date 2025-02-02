@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavana</h1>
-<h3 align="center">🚀 About Me I am a Machine Learning Engineer & AI Researcher with expertise in deep learning, natural language processing, and computer vision. My work spans from AI-powered flood monitoring to demand forecasting and Generative AI applications across industries like banking, energy, and supply chain management. I am currently in the final phase of my PhD in AI, NLP and Computer Vision.</h3>
+<h3 align="center"> I am a Machine Learning Engineer & AI Researcher with experience in both academia and industry. I am currently in the final phase of my PhD in AI, NLP and Computer Vision.</h3>
 
 - 📫 How to reach me **bhavanabnair1@gmail.com**
 
